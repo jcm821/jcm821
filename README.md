@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timegradient&height=200&&animation=fadIn&section=footer&text=Hi,%20I'm%20Changmin&fontColor=7B68EE&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&&animation=fadIn&section=footer&text=Hi,%20I'm%20Changmin&fontColor=7B68EE&fontAlign=50)
 
 
 <div align='center'> 
