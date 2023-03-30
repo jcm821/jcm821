@@ -10,11 +10,13 @@
 </div>
 
 # 🔥Skills
-## <center>languages</center>
-<p align='center'>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3.svg?&style=flat&logo=R&logoColor=white"/>
-</p>
+<h2 align='center'>languages</h2>
+<div>
+  <p align='center'>
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R-276DC3.svg?&style=flat&logo=R&logoColor=white"/>
+  </p>
+</div>
 
 ## <center>tools</center>
 <p align='center'>
