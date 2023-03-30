@@ -18,20 +18,24 @@
   </p>
 </div>
 
-## <center>tools</center>
-<p align='center'>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rstudio-75AADB.svg?&style=flat&logo=Rstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spyder IDE-FF0000.svg?&style=flat&logo=Spyder IDE&logoColor=white"/>
-</p>
+<h2 align='center'>tools</h2>
+<div>
+    <p align='center'>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=Visual Studio Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rstudio-75AADB.svg?&style=flat&logo=Rstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spyder IDE-FF0000.svg?&style=flat&logo=Spyder IDE&logoColor=white"/>
+  </p>
+</div>
 
-## <center>at least once I used</center>
-<p align='center'>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
-</p>
+<h2 align='center'>at least once I used</h2>
+<div>
+  <p align='center'>
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
+  </p>
+</div>
 
 
 
