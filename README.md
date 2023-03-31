@@ -40,7 +40,7 @@
 # 🎉 Social
 <div>
   <p align='center'>
-    <a href="https://www.instagram.com/jchmin_0" target='new'><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jchmin_0"/></a>
+    <a href="https://www.instagram.com/jchmin_0"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jchmin_0"/></a>
   </p>
 </div>
 
