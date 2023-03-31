@@ -34,6 +34,7 @@
   <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/> -->
   </p>
 </div>
 
@@ -41,12 +42,15 @@
 <div>
   <p align='center'>
     <a href="https://www.instagram.com/jchmin_0"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jchmin_0"/></a>
+    <!-- <a href="https://blog.naver.com/chuncm"><img src="https://img.shields.io/badge/Blog-03C75A.svg?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/chuncm"/></a> -->
   </p>
 </div>
 
 # 🎮 Gaming
 <p align='center'>
 <img src="https://img.shields.io/badge/Valorant-FA4454.svg?&style=flat-square&logo=Valorant&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razer-00FF00.svg?&style=flat-square&logo=Razer&logoColor=white"/>
+</p>
 </p>
 
 # 📙 Stats
