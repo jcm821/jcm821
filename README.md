@@ -29,12 +29,24 @@
   </p>
 </div>
 
+<h2 align='center'>DB</h2>
+<div>
+    <p align='center'>
+    <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927.svg?&style=flat&logo=Microsoft SQL Server&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=Oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
+  </p>
+</div>
+
 <h2 align='center'>at least once I used</h2>
 <div>
   <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
-    <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF.svg?&style=flat&logo=Apache Hadoop&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache Spark-E25A1C.svg?&style=flat&logo=Apache Spark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache Kafka-231F20.svg?&style=flat&logo=Apache Kafka&logoColor=white"/>
   </p>
 </div>
 
