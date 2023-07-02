@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF.svg?&style=flat&logo=Apache Hadoop&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF.svg?&style=flat&logo=Apache Hadoop&logoColor=black"/>
     <img src="https://img.shields.io/badge/Apache Spark-E25A1C.svg?&style=flat&logo=Apache Spark&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache Kafka-231F20.svg?&style=flat&logo=Apache Kafka&logoColor=white"/>
   </p>
