@@ -77,6 +77,7 @@
 <img src="https://img.shields.io/badge/Razer-00FF00.svg?&style=flat-square&logo=Razer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nike-111111.svg?&style=flat-square&logo=Nike&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adidas-000000.svg?&style=flat-square&logo=Adidas&logoColor=white"/>
+<img src="https://img.shields.io/badge/FILA-002D62.svg?&style=flat-square&logo=Fila&logoColor=white"/>
 <img src="https://img.shields.io/badge/The North Face-111111.svg?&style=flat-square&logo=thenorthface&logoColor=white"/>
 </p>
 
