@@ -30,6 +30,9 @@
     <img src="https://img.shields.io/badge/Tableau-E97627.svg?&style=flat&logo=Tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/QGIS-589632.svg?&style=flat&logo=QGIS&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=amazonwebservices&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=slack&logoColor=white"/>
+    
   </p>
 </div>
 
