@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Rstudio-75AADB.svg?&style=flat&logo=Rstudio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spyder IDE-FF0000.svg?&style=flat&logo=Spyder IDE&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=flat&logo=Google Colab&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tableau-E97627.svg?&style=flat&logo=Tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/QGIS-589632.svg?&style=flat&logo=QGIS&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=amazonwebservices&logoColor=white"/>
@@ -47,6 +48,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF.svg?&style=flat&logo=Apache-Hadoop&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache Spark-E25A1C.svg?&style=flat&logo=Apache Spark&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache Kafka-231F20.svg?&style=flat&logo=Apache Kafka&logoColor=white"/>
@@ -61,11 +63,18 @@
   </p>
 </div>
 
-# 🎮 Gaming
+# 🎮 Gaming & Sports
 <p align='center'>
+<img src="https://img.shields.io/badge/MSI-FF0000.svg?&style=flat-square&logo=MSI&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASUS-000000.svg?&style=flat-square&logo=ASUS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Republic Of Gamers-FF0029.svg?&style=flat-square&logo=republicofgamers&logoColor=white"/>
 <img src="https://img.shields.io/badge/Valorant-FA4454.svg?&style=flat-square&logo=Valorant&logoColor=white"/>
+<img src="https://img.shields.io/badge/Counter Strike2-000000.svg?&style=flat-square&logo=counterstrike&logoColor=white"/>
+<img src="https://img.shields.io/badge/Steam-000000.svg?&style=flat-square&logo=steam&logoColor=white"/>
 <img src="https://img.shields.io/badge/Razer-00FF00.svg?&style=flat-square&logo=Razer&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Nike-111111.svg?&style=flat-square&logo=Nike&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adidas-000000.svg?&style=flat-square&logo=Adidas&logoColor=white"/>
+<img src="https://img.shields.io/badge/The North Face-111111.svg?&style=flat-square&logo=thenorthface&logoColor=white"/>
 </p>
 
 # 📙 Stats
