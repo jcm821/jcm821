@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/Spyder IDE-FF0000.svg?&style=flat&logo=Spyder IDE&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tableau-E97627.svg?&style=flat&logo=Tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/QGIS-589632.svg?&style=flat&logo=QGIS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=amazonwebservices&logoColor=white"/>
   </p>
 </div>
 
